@@ -103,6 +103,54 @@ sistema/
 
 ---
 
+## Módulos del ERP
+
+### 1. Dashboard
+Centro de control ejecutivo del sistema. Muestra métricas, eficiencia, atrasos, avance de proyectos, metas cumplidas, cumplimiento general y actividad reciente [file:5]. También permite visualizar datos globales o filtrarlos por entidad, lo que lo convierte en una vista estratégica para la toma de decisiones [file:5].
+
+### 2. Calendario
+Módulo para la programación y seguimiento de eventos, reuniones, recordatorios y deadlines. Integra una agenda visual por mes, semana y lista, además de panel lateral con próximos eventos [file:5]. Su lógica ayuda a alinear tareas, metas y fechas clave dentro del flujo operativo del municipio [file:5].
+
+### 3. Proyectos
+Administración de iniciativas institucionales con filtros por entidad y estado. Permite registrar, consultar y dar seguimiento a proyectos con indicadores de prioridad, progreso y fechas relevantes [file:5]. Está diseñado para sostener la planeación estratégica y la trazabilidad del avance operativo [file:5].
+
+### 4. Tareas
+Gestión de actividades operativas asociadas a proyectos o administradas de forma independiente. Su vista tipo Kanban facilita el control visual de pendientes, en proceso y completadas [file:5]. También permite definir prioridad, estado, fecha límite y relación con calendario [file:5].
+
+### 5. Metas
+Módulo para administrar objetivos medibles dentro del marco institucional. Permite definir título, descripción, tipo, categoría, valor objetivo, valor actual, unidad, estado, proyecto relacionado y rango de fechas [file:5]. Es clave para el seguimiento de resultados, cumplimiento y evaluación por periodo [file:5].
+
+### 6. Organización
+Módulo orientado a la estructura operativa y administrativa de las entidades. Permite representar jerarquías, roles, áreas y vínculos de coordinación dentro del sistema [file:5]. Favorece la alineación entre responsables, procesos y unidades de trabajo [file:5].
+
+### 7. Portafolio
+Espacio para agrupar objetivos, iniciativas, elementos estratégicos y anexos documentales. El portafolio permite registrar nombre, descripción, estado, entidad asociada y elementos internos, además de soportar archivos adjuntos [file:5]. Está pensado como un contenedor de planeación y evidencia institucional [file:5].
+
+### 8. SIG / Mapas
+Módulo geoespacial basado en Leaflet para visualizar capas, entidades y datos territoriales [file:5]. Permite consultar información en mapas base, habilitar capas temáticas y analizar la distribución espacial de registros [file:5]. Es especialmente útil para la planeación urbana, territorial y de cobertura [file:5].
+
+---
+
+## Módulos de evaluación
+
+### Status MIR
+Módulo de seguimiento de la Matriz de Indicadores para Resultados. Permite observar el estado de objetivos, avances y cumplimiento dentro de la lógica de planeación estratégica [file:5].
+
+### Avance Trimestral
+Módulo para capturar y dar seguimiento a avances por periodo. Sirve para monitoreo operativo y evaluación continua [file:5].
+
+### ODS 20-30
+Módulo orientado al seguimiento de objetivos de desarrollo sostenible y alineación con metas de mediano y largo plazo [file:5].
+
+### Competitividad Urbana
+Módulo para análisis, consulta y modificación de indicadores relacionados con desarrollo urbano y desempeño territorial [file:5].
+
+### Guía Consultiva de Desempeño Municipal
+Módulo enfocado en la evaluación institucional y consulta de reportes relacionados con desempeño municipal [file:5].
+
+### PMTODU
+Módulo alineado a planeación territorial y ordenamiento urbano, útil para análisis estratégicos y seguimiento técnico [file:5].
+
 ## Modelo de datos
 
 El diseño de datos se construyó con enfoque multientidad, permitiendo que cada registro quede asociado a una entidad municipal [file:5].
