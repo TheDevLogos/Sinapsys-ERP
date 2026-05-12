@@ -185,13 +185,13 @@ Permite:
 ![Tareas](./image-8.jpg)
 
 ### Proyectos
-![Proyectos](./PROYECTOS.jpg)
+![Proyectos](./PROYECTOS.png)
 
 ### SINAPSYS
-![SINAPSYS](./SYNAPSIS.jpg)
+![SINAPSYS](./SYNAPSIS.png)
 
 ### SIG / Mapas
-![SIG](./SIG.jpg)
+![SIG](./SIG.png)
 
 ---
 
