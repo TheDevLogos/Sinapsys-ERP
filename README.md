@@ -170,19 +170,19 @@ Permite:
 ## Capturas del sistema
 
 ### Dashboard
-![Dashboard](./image-4.jpg)
+![Dashboard](./image-7.jpg)
 
 ### Calendario
-![Calendario](./image-5.jpg)
+![Calendario](./image-8.jpg)
 
 ### Portafolio
 ![Portafolio](./image-6.jpg)
 
 ### Metas
-![Metas](./image-7.jpg)
+![Metas](./image-5.jpg)
 
 ### Tareas
-![Tareas](./image-8.jpg)
+![Tareas](./image-4.jpg)
 
 ### Proyectos
 ![Proyectos](./PROYECTOS.png)
